@@ -2,4 +2,4 @@
 ! AdGuard   : Indonesia Ad Server
 ! Modified  : 2020-11-27
 !---------------------------------------------------------------------
-||rajaknalpot.com^
+167.179.66.175 ||rajaknalpot.com^
